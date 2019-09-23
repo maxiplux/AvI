@@ -13,7 +13,7 @@
     "run:before": "build"
   },
   "dependencies": {
-    "@angular/common": "2.1.1",
+    "@angular/common": "2.4.10",
     "@angular/compiler": "2.1.1",
     "@angular/compiler-cli": "2.1.1",
     "@angular/core": "2.1.1",
